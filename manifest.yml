@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: ming-node-library-app
+  host: ming-node-library-app
+  disk_quota: 1024M
